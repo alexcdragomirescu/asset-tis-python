@@ -1,0 +1,522 @@
+2022-04-26 19:28:28: DB Commander v9.1.0 Starting...
+2022-04-26 19:28:28: Using command file E:\tis\regions\reference.txt
+2022-04-26 19:28:28: Connecting to 99_NEW_PROD_ASSET_91 as 'DEXPORT1'
+2022-04-26 19:28:28: ODBC Driver version: 12.1.0.2.0
+2022-04-26 19:28:30: DB Settings - TNS_ADMIN has been set to E:\app\client\product\12.1.0\client_1\network\admin
+2022-04-26 19:28:31: Using Database Settings...
+2022-04-26 19:28:31: Logged into 'PLNNRP04' as user 'DEXPORT1'
+2022-04-26 19:28:31: Read 27 project(s):
+2022-04-26 19:29:20: WARNING: The maximum disk usage parameter is not set - no clear up of unused prediction files will take place. Please set this parameter in the project settings dialog box.
+2022-04-26 19:29:20: Prediction Engine Initialization Warning (Prediction task error: Encountered a communications error while attempting to contact the task distribution coordinator (*System failed to determine system error information (generic-distributor-module)*)).
+2022-04-26 19:29:20: Able to process 4 concurrent predictions locally
+2022-04-26 19:29:20: Failed to convert prediction folder path to UNC format (Could not resolve domain and machine name for '\\svm-cifs03-vl63a.mobilebelgium.be\netact_test\MWINGZ_REFERENCE_2G_3G_4G\Predictions' (OS error 5))!
+2022-04-26 19:29:20: Failed to convert height-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DTM' is local, so cannot be expanded to a valid UNC path)!
+2022-04-26 19:29:20: Failed to convert clutter-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DLU' is local, so cannot be expanded to a valid UNC path)!
+2022-04-26 19:29:20: Failed to convert vector-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\LINES' is local, so cannot be expanded to a valid UNC path)!
+2022-04-26 19:29:21: Failed to convert building-raster-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DHM' is local, so cannot be expanded to a valid UNC path)!
+2022-04-26 19:29:21: WARNING: Prediction distribution will be unavailable due to one or more critical folder paths not being in UNC format (see above)
+2022-04-26 19:29:21: Local processing of predictions favoured
+2022-04-26 19:29:21: Starting Project 21: MWINGZ_REFERENCE_2G_3G_4G
+2022-04-26 19:29:27: Found backdrops at 7 resolutions in folder 'C:\DATA\MAP_INDEXES\BELGIUM\BACKDROP'.
+2022-04-26 19:29:45: Creating new index file as file \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\MWINGZ_REFERENCE_2G_3G_4G\UserVectors\index.xml for 'User Vectors' as the data appears to be invalid.
+2022-04-26 19:29:45: New Index about to be created as existing had invalid data. backup of existing file in: \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\MWINGZ_REFERENCE_2G_3G_4G\UserVectors\index_invalid_data.xml
+2022-04-26 19:29:45: Error: Can not save change to the index.xml file due to the following reason: Insufficient disk space to save (null)..
+2022-04-26 19:29:45: Failed to create the new Index file \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\MWINGZ_REFERENCE_2G_3G_4G\UserVectors\index.xml
+2022-04-26 19:29:45: Error: Loading User Vectors index.xml file. No User Vectors will be loaded.
+2022-04-26 19:34:43: Refreshing connections
+2022-04-26 19:34:43: Refreshing connections complete
+2022-04-26 19:35:07: Ready
+2022-04-26 19:35:07: Reading Command File E:\tis\regions\reference.txt
+2022-04-26 19:35:07: Running IMPORT_XML [1]
+2022-04-26 19:35:07: Reading XML file: E:\TIS\REGIONS\A\PROPERTY\PROPERTY-LIST001.xml
+2022-04-26 19:35:07: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:35:07: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:35:07: Importing File [E:\TIS\REGIONS\A\PROPERTY\PROPERTY-LIST001.xml] in large file support mode
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '2' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '3' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '4' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '5' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '6' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '10' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '11' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '12' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '13' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '25' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '1' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '24' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '26' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Could not find Antenna Device with ID '7780_H065V14T2...12R_X_T_PW' while importing Antenna '27' on Property 'A_PROP_0899'
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '10' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '3' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '13' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '11' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '2' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '1' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Updating antenna pattern on Logical Antenna '1' on property 'A_PROP_0899' to '7780_H065V14T2...12R_X_T_PW \09_H065V14T2R_X_T_PW' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:45: Updating non-inherited antenna pattern on Logical Antenna '2' on property 'A_PROP_0899' to '7780_H065V14T2...12R_X_T_PW \09_H065V14T2R_X_T_PW' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '6' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '4' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '5' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '24' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Updating non-inherited antenna pattern on Logical Antenna '29' on property 'A_PROP_0899' to '7780_H065V14T2...12R_X_T_PW \09_H065V14T2R_X_T_PW' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '26' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Updating non-inherited antenna pattern on Logical Antenna '30' on property 'A_PROP_0899' to '7780_H065V14T2...12R_X_T_PW \09_H065V14T2R_X_T_PW' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '27' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Updating non-inherited antenna pattern on Logical Antenna '31' on property 'A_PROP_0899' to '7780_H065V14T2...12R_X_T_PW \09_H065V14T2R_X_T_PW' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '25' on property 'A_PROP_0899'.
+2022-04-26 19:35:45: Antenna device updated from 'Unknown' to '7780_H065V14T2...12R_X_T_PW ' on physical antenna '12' on property 'A_PROP_0899'.
+2022-04-26 19:35:48: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '13' on Property 'A_PROP_0997'
+2022-04-26 19:35:48: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '14' on Property 'A_PROP_0997'
+2022-04-26 19:35:48: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '15' on Property 'A_PROP_0997'
+2022-04-26 19:35:48: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '37' on Property 'A_PROP_0997'
+2022-04-26 19:35:48: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '38' on Property 'A_PROP_0997'
+2022-04-26 19:35:48: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '39' on Property 'A_PROP_0997'
+2022-04-26 19:35:48: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '37' on property 'A_PROP_0997'.
+2022-04-26 19:35:48: Updating antenna pattern on Logical Antenna '1' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '5' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '2' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '20' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '21' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '23' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '28' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '38' on property 'A_PROP_0997'.
+2022-04-26 19:35:48: Updating antenna pattern on Logical Antenna '3' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '6' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '24' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '29' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:48: Updating non-inherited antenna pattern on Logical Antenna '22' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:49: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '39' on property 'A_PROP_0997'.
+2022-04-26 19:35:49: Updating antenna pattern on Logical Antenna '4' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:49: Updating non-inherited antenna pattern on Logical Antenna '19' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:49: Updating non-inherited antenna pattern on Logical Antenna '30' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:49: Updating non-inherited antenna pattern on Logical Antenna '43' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:49: Updating non-inherited antenna pattern on Logical Antenna '47' on property 'A_PROP_0997' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:35:49: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '13' on property 'A_PROP_0997'.
+2022-04-26 19:35:49: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '14' on property 'A_PROP_0997'.
+2022-04-26 19:35:49: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '15' on property 'A_PROP_0997'.
+2022-04-26 19:36:50: XML Import complete.
+2022-04-26 19:36:50: Completed IMPORT_XML [1] successfully
+2022-04-26 19:36:50: Running IMPORT_XML [2]
+2022-04-26 19:36:50: Reading XML file: E:\TIS\REGIONS\A\2G\GSM-CELL-LIST001.XML
+2022-04-26 19:36:50: Reading XML file: E:\TIS\REGIONS\A\2G\MU-NODE-LIST001.xml
+2022-04-26 19:36:50: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:36:50: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:36:50: Importing File [E:\TIS\REGIONS\A\2G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:37:07: Importing File [E:\TIS\REGIONS\A\2G\GSM-CELL-LIST001.XML] in large file support mode
+2022-04-26 19:38:24: XML Import complete.
+2022-04-26 19:38:24: Completed IMPORT_XML [2] successfully
+2022-04-26 19:38:24: Running IMPORT_XML [3]
+2022-04-26 19:38:24: Reading XML file: E:\TIS\REGIONS\A\3G\NETWORK-LIST001.xml
+2022-04-26 19:38:24: Reading XML file: E:\TIS\REGIONS\A\3G\MU-NODE-LIST001.xml
+2022-04-26 19:38:24: Reading XML file: E:\TIS\REGIONS\A\3G\UMTS-CELL-LIST001.xml
+2022-04-26 19:38:24: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:38:24: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:38:24: Importing File [E:\TIS\REGIONS\A\3G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:38:59: Importing File [E:\TIS\REGIONS\A\3G\UMTS-CELL-LIST001.xml] in large file support mode
+2022-04-26 19:40:41: XML Import complete.
+2022-04-26 19:40:41: Completed IMPORT_XML [3] successfully
+2022-04-26 19:40:41: Running IMPORT_XML [4]
+2022-04-26 19:40:41: Reading XML file: E:\TIS\REGIONS\A\4G\MU-NODE-LIST001.xml
+2022-04-26 19:40:41: Reading XML file: E:\TIS\REGIONS\A\4G\LTE-CELL-LIST001.xml
+2022-04-26 19:40:41: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:40:41: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:40:41: Importing File [E:\TIS\REGIONS\A\4G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:41:04: Importing File [E:\TIS\REGIONS\A\4G\LTE-CELL-LIST001.xml] in large file support mode
+2022-04-26 19:42:51: XML Import complete.
+2022-04-26 19:42:51: Completed IMPORT_XML [4] successfully
+2022-04-26 19:42:51: Running IMPORT_XML [5]
+2022-04-26 19:42:51: Reading XML file: E:\TIS\REGIONS\A\REPEATER\REPEATER-LIST001.xml
+2022-04-26 19:42:51: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:42:51: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:42:51: Importing File [E:\TIS\REGIONS\A\REPEATER\REPEATER-LIST001.xml] in large file support mode
+2022-04-26 19:43:35: XML Import complete.
+2022-04-26 19:43:35: Completed IMPORT_XML [5] successfully
+2022-04-26 19:43:35: Running IMPORT_XML [6]
+2022-04-26 19:43:35: Reading XML file: E:\TIS\REGIONS\BFW\PROPERTY\PROPERTY-LIST001.xml
+2022-04-26 19:43:35: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:43:35: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:43:35: Importing File [E:\TIS\REGIONS\BFW\PROPERTY\PROPERTY-LIST001.xml] in large file support mode
+2022-04-26 19:44:33: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '28' on Property 'F_PROP_0589'
+2022-04-26 19:44:34: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '28' on property 'F_PROP_0589'.
+2022-04-26 19:44:34: Updating antenna pattern on Logical Antenna '52' on property 'F_PROP_0589' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:44:34: Updating non-inherited antenna pattern on Logical Antenna '53' on property 'F_PROP_0589' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:46:06: XML Import complete.
+2022-04-26 19:46:06: Completed IMPORT_XML [6] successfully
+2022-04-26 19:46:06: Running IMPORT_XML [7]
+2022-04-26 19:46:06: Reading XML file: E:\TIS\REGIONS\BFW\2G\GSM-CELL-LIST001.XML
+2022-04-26 19:46:06: Reading XML file: E:\TIS\REGIONS\BFW\2G\MU-NODE-LIST001.xml
+2022-04-26 19:46:06: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:46:06: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:46:06: Importing File [E:\TIS\REGIONS\BFW\2G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:46:42: Importing File [E:\TIS\REGIONS\BFW\2G\GSM-CELL-LIST001.XML] in large file support mode
+2022-04-26 19:48:30: XML Import complete.
+2022-04-26 19:48:30: Completed IMPORT_XML [7] successfully
+2022-04-26 19:48:30: Running IMPORT_XML [8]
+2022-04-26 19:48:30: Reading XML file: E:\TIS\REGIONS\BFW\3G\NETWORK-LIST001.xml
+2022-04-26 19:48:30: Reading XML file: E:\TIS\REGIONS\BFW\3G\MU-NODE-LIST001.xml
+2022-04-26 19:48:30: Reading XML file: E:\TIS\REGIONS\BFW\3G\UMTS-CELL-LIST001.xml
+2022-04-26 19:48:30: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:48:30: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:48:30: Importing File [E:\TIS\REGIONS\BFW\3G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:49:07: Could not import MU-Node with ID = '36011M7_1_420' because dependency Property with ID = 'M_PROP_3244' was not found.
+2022-04-26 19:49:07: Failed to import MU-Node with ID = '36011M7_1_420'
+2022-04-26 19:49:07: Could not import MU-Node with ID = '36012M7_1_420' because dependency Property with ID = 'M_PROP_3245' was not found.
+2022-04-26 19:49:07: Failed to import MU-Node with ID = '36012M7_1_420'
+2022-04-26 19:49:07: Could not import MU-Node with ID = '36013M7_1_420' because dependency Property with ID = 'M_PROP_3246' was not found.
+2022-04-26 19:49:07: Failed to import MU-Node with ID = '36013M7_1_420'
+2022-04-26 19:49:07: Could not import MU-Node with ID = '36014M7_1_420' because dependency Property with ID = 'M_PROP_3247' was not found.
+2022-04-26 19:49:07: Failed to import MU-Node with ID = '36014M7_1_420'
+2022-04-26 19:49:16: Importing File [E:\TIS\REGIONS\BFW\3G\UMTS-CELL-LIST001.xml] in large file support mode
+2022-04-26 19:50:04: Could not import UMTS Cell with ID = '36011M7_1_420_1' because dependency MU-Node (UMTS) with ID = '36011M7_1_420' was not found.
+2022-04-26 19:50:04: Could not import UMTS Cell with ID = '36012M7_1_420_1' because dependency MU-Node (UMTS) with ID = '36012M7_1_420' was not found.
+2022-04-26 19:50:04: Could not import UMTS Cell with ID = '36013M7_1_420_1' because dependency MU-Node (UMTS) with ID = '36013M7_1_420' was not found.
+2022-04-26 19:50:04: Could not import UMTS Cell with ID = '36014M7_1_420_1' because dependency MU-Node (UMTS) with ID = '36014M7_1_420' was not found.
+2022-04-26 19:51:27: XML Import complete.
+2022-04-26 19:51:27: Completed IMPORT_XML [8] successfully
+2022-04-26 19:51:27: Running IMPORT_XML [9]
+2022-04-26 19:51:27: Reading XML file: E:\TIS\REGIONS\BFW\4G\MU-NODE-LIST001.xml
+2022-04-26 19:51:27: Reading XML file: E:\TIS\REGIONS\BFW\4G\LTE-CELL-LIST001.xml
+2022-04-26 19:51:28: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:51:28: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:51:28: Importing File [E:\TIS\REGIONS\BFW\4G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:51:56: Could not import MU-Node with ID = '46011M7_1_420' because dependency Property with ID = 'M_PROP_3244' was not found.
+2022-04-26 19:51:56: Failed to import MU-Node with ID = '46011M7_1_420'
+2022-04-26 19:51:56: Could not import MU-Node with ID = '46012M7_1_420' because dependency Property with ID = 'M_PROP_3245' was not found.
+2022-04-26 19:51:56: Failed to import MU-Node with ID = '46012M7_1_420'
+2022-04-26 19:51:56: Could not import MU-Node with ID = '46013M7_1_420' because dependency Property with ID = 'M_PROP_3246' was not found.
+2022-04-26 19:51:56: Failed to import MU-Node with ID = '46013M7_1_420'
+2022-04-26 19:51:56: Could not import MU-Node with ID = '46014M7_1_420' because dependency Property with ID = 'M_PROP_3247' was not found.
+2022-04-26 19:51:56: Failed to import MU-Node with ID = '46014M7_1_420'
+2022-04-26 19:52:03: Importing File [E:\TIS\REGIONS\BFW\4G\LTE-CELL-LIST001.xml] in large file support mode
+2022-04-26 19:53:12: Could not import LTE Cell with ID = '46011M7_1_420_13' because dependency MU-Node (LTE) with ID = '46011M7_1_420' was not found.
+2022-04-26 19:53:12: Could not import LTE Cell with ID = '46012M7_1_420_13' because dependency MU-Node (LTE) with ID = '46012M7_1_420' was not found.
+2022-04-26 19:53:12: Could not import LTE Cell with ID = '46013M7_1_420_13' because dependency MU-Node (LTE) with ID = '46013M7_1_420' was not found.
+2022-04-26 19:53:12: Could not import LTE Cell with ID = '46014M7_1_420_13' because dependency MU-Node (LTE) with ID = '46014M7_1_420' was not found.
+2022-04-26 19:54:39: XML Import complete.
+2022-04-26 19:54:39: Completed IMPORT_XML [9] successfully
+2022-04-26 19:54:39: Running IMPORT_XML [10]
+2022-04-26 19:54:39: Reading XML file: E:\TIS\REGIONS\BFW\REPEATER\REPEATER-LIST001.xml
+2022-04-26 19:54:39: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:54:39: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:54:39: Importing File [E:\TIS\REGIONS\BFW\REPEATER\REPEATER-LIST001.xml] in large file support mode
+2022-04-26 19:54:39: Could not import Repeater with ID = '501F1_1_405' because dependency Cell (GSM) with ID = '117F1_1_105_2' was not found.
+2022-04-26 19:55:28: XML Import complete.
+2022-04-26 19:55:28: Completed IMPORT_XML [10] successfully
+2022-04-26 19:55:28: Running IMPORT_XML [11]
+2022-04-26 19:55:28: Reading XML file: E:\TIS\REGIONS\C\PROPERTY\PROPERTY-LIST001.xml
+2022-04-26 19:55:28: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:55:28: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:55:28: Importing File [E:\TIS\REGIONS\C\PROPERTY\PROPERTY-LIST001.xml] in large file support mode
+2022-04-26 19:55:29: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '10' on Property 'C_PROP_9441'
+2022-04-26 19:55:29: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '11' on Property 'C_PROP_9441'
+2022-04-26 19:55:29: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '12' on Property 'C_PROP_9441'
+2022-04-26 19:55:29: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '10' on property 'C_PROP_9441'.
+2022-04-26 19:55:29: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '11' on property 'C_PROP_9441'.
+2022-04-26 19:55:29: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '12' on property 'C_PROP_9441'.
+2022-04-26 19:55:32: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '13' on Property 'C_PROP_5889'
+2022-04-26 19:55:32: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '14' on Property 'C_PROP_5889'
+2022-04-26 19:55:32: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '15' on Property 'C_PROP_5889'
+2022-04-26 19:55:32: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '14' on property 'C_PROP_5889'.
+2022-04-26 19:55:32: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '15' on property 'C_PROP_5889'.
+2022-04-26 19:55:32: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '13' on property 'C_PROP_5889'.
+2022-04-26 19:55:44: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '38' on Property 'C_PROP_0885'
+2022-04-26 19:55:44: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '40' on Property 'C_PROP_0885'
+2022-04-26 19:55:44: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '39' on Property 'C_PROP_0885'
+2022-04-26 19:55:44: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '38' on property 'C_PROP_0885'.
+2022-04-26 19:55:44: Updating non-inherited antenna pattern on Logical Antenna '14' on property 'C_PROP_0885' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:55:44: Updating non-inherited antenna pattern on Logical Antenna '11' on property 'C_PROP_0885' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:55:44: Updating non-inherited antenna pattern on Logical Antenna '13' on property 'C_PROP_0885' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:55:44: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '39' on property 'C_PROP_0885'.
+2022-04-26 19:55:44: Updating antenna pattern on Logical Antenna '9' on property 'C_PROP_0885' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:55:44: Updating non-inherited antenna pattern on Logical Antenna '15' on property 'C_PROP_0885' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:55:44: Updating non-inherited antenna pattern on Logical Antenna '12' on property 'C_PROP_0885' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:55:44: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '40' on property 'C_PROP_0885'.
+2022-04-26 19:55:44: Updating antenna pattern on Logical Antenna '10' on property 'C_PROP_0885' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:55:44: Updating non-inherited antenna pattern on Logical Antenna '25' on property 'C_PROP_0885' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 19:56:39: XML Import complete.
+2022-04-26 19:56:39: Completed IMPORT_XML [11] successfully
+2022-04-26 19:56:39: Running IMPORT_XML [12]
+2022-04-26 19:56:39: Reading XML file: E:\TIS\REGIONS\C\2G\GSM-CELL-LIST001.XML
+2022-04-26 19:56:39: Reading XML file: E:\TIS\REGIONS\C\2G\MU-NODE-LIST001.xml
+2022-04-26 19:56:39: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:56:39: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:56:39: Importing File [E:\TIS\REGIONS\C\2G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:56:54: Importing File [E:\TIS\REGIONS\C\2G\GSM-CELL-LIST001.XML] in large file support mode
+2022-04-26 19:58:05: XML Import complete.
+2022-04-26 19:58:05: Completed IMPORT_XML [12] successfully
+2022-04-26 19:58:05: Running IMPORT_XML [13]
+2022-04-26 19:58:05: Reading XML file: E:\TIS\REGIONS\C\3G\NETWORK-LIST001.xml
+2022-04-26 19:58:05: Reading XML file: E:\TIS\REGIONS\C\3G\MU-NODE-LIST001.xml
+2022-04-26 19:58:05: Reading XML file: E:\TIS\REGIONS\C\3G\UMTS-CELL-LIST001.xml
+2022-04-26 19:58:05: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:58:05: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:58:05: Importing File [E:\TIS\REGIONS\C\3G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:58:17: Importing File [E:\TIS\REGIONS\C\3G\UMTS-CELL-LIST001.xml] in large file support mode
+2022-04-26 19:59:35: XML Import complete.
+2022-04-26 19:59:35: Completed IMPORT_XML [13] successfully
+2022-04-26 19:59:35: Running IMPORT_XML [14]
+2022-04-26 19:59:35: Reading XML file: E:\TIS\REGIONS\C\4G\MU-NODE-LIST001.xml
+2022-04-26 19:59:35: Reading XML file: E:\TIS\REGIONS\C\4G\LTE-CELL-LIST001.xml
+2022-04-26 19:59:35: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 19:59:35: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 19:59:35: Importing File [E:\TIS\REGIONS\C\4G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 19:59:48: Importing File [E:\TIS\REGIONS\C\4G\LTE-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:01:30: XML Import complete.
+2022-04-26 20:01:30: Completed IMPORT_XML [14] successfully
+2022-04-26 20:01:30: Running IMPORT_XML [15]
+2022-04-26 20:01:30: Reading XML file: E:\TIS\REGIONS\C\REPEATER\REPEATER-LIST001.xml
+2022-04-26 20:01:30: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:01:30: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:01:30: Importing File [E:\TIS\REGIONS\C\REPEATER\REPEATER-LIST001.xml] in large file support mode
+2022-04-26 20:02:33: XML Import complete.
+2022-04-26 20:02:33: Completed IMPORT_XML [15] successfully
+2022-04-26 20:02:33: Running IMPORT_XML [16]
+2022-04-26 20:02:33: Reading XML file: E:\TIS\REGIONS\G\PROPERTY\PROPERTY-LIST001.xml
+2022-04-26 20:02:33: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:02:33: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:02:33: Importing File [E:\TIS\REGIONS\G\PROPERTY\PROPERTY-LIST001.xml] in large file support mode
+2022-04-26 20:03:57: XML Import complete.
+2022-04-26 20:03:57: Completed IMPORT_XML [16] successfully
+2022-04-26 20:03:57: Running IMPORT_XML [17]
+2022-04-26 20:03:57: Reading XML file: E:\TIS\REGIONS\G\2G\GSM-CELL-LIST001.XML
+2022-04-26 20:03:57: Reading XML file: E:\TIS\REGIONS\G\2G\MU-NODE-LIST001.xml
+2022-04-26 20:03:57: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:03:57: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:03:57: Importing File [E:\TIS\REGIONS\G\2G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:04:05: Importing File [E:\TIS\REGIONS\G\2G\GSM-CELL-LIST001.XML] in large file support mode
+2022-04-26 20:05:20: XML Import complete.
+2022-04-26 20:05:20: Completed IMPORT_XML [17] successfully
+2022-04-26 20:05:20: Running IMPORT_XML [18]
+2022-04-26 20:05:20: Reading XML file: E:\TIS\REGIONS\G\3G\NETWORK-LIST001.xml
+2022-04-26 20:05:20: Reading XML file: E:\TIS\REGIONS\G\3G\MU-NODE-LIST001.xml
+2022-04-26 20:05:20: Reading XML file: E:\TIS\REGIONS\G\3G\UMTS-CELL-LIST001.xml
+2022-04-26 20:05:20: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:05:20: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:05:20: Importing File [E:\TIS\REGIONS\G\3G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:05:35: Importing File [E:\TIS\REGIONS\G\3G\UMTS-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:06:56: XML Import complete.
+2022-04-26 20:06:56: Completed IMPORT_XML [18] successfully
+2022-04-26 20:06:56: Running IMPORT_XML [19]
+2022-04-26 20:06:56: Reading XML file: E:\TIS\REGIONS\G\4G\MU-NODE-LIST001.xml
+2022-04-26 20:06:56: Reading XML file: E:\TIS\REGIONS\G\4G\LTE-CELL-LIST001.xml
+2022-04-26 20:06:56: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:06:56: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:06:56: Importing File [E:\TIS\REGIONS\G\4G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:07:08: Importing File [E:\TIS\REGIONS\G\4G\LTE-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:08:32: XML Import complete.
+2022-04-26 20:08:32: Completed IMPORT_XML [19] successfully
+2022-04-26 20:08:32: Running IMPORT_XML [20]
+2022-04-26 20:08:32: Reading XML file: E:\TIS\REGIONS\G\REPEATER\REPEATER-LIST001.xml
+2022-04-26 20:08:32: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:08:32: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:08:32: Importing File [E:\TIS\REGIONS\G\REPEATER\REPEATER-LIST001.xml] in large file support mode
+2022-04-26 20:08:32: Could not import Repeater with ID = '500G1_1_000' because dependency Cell (GSM) with ID = '392G1_2_405_1' was not found.
+2022-04-26 20:09:27: XML Import complete.
+2022-04-26 20:09:27: Completed IMPORT_XML [20] successfully
+2022-04-26 20:09:27: Running IMPORT_XML [21]
+2022-04-26 20:09:27: Reading XML file: E:\TIS\REGIONS\H\PROPERTY\PROPERTY-LIST001.xml
+2022-04-26 20:09:27: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:09:27: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:09:27: Importing File [E:\TIS\REGIONS\H\PROPERTY\PROPERTY-LIST001.xml] in large file support mode
+2022-04-26 20:10:54: XML Import complete.
+2022-04-26 20:10:54: Completed IMPORT_XML [21] successfully
+2022-04-26 20:10:54: Running IMPORT_XML [22]
+2022-04-26 20:10:54: Reading XML file: E:\TIS\REGIONS\H\2G\GSM-CELL-LIST001.XML
+2022-04-26 20:10:54: Reading XML file: E:\TIS\REGIONS\H\2G\MU-NODE-LIST001.xml
+2022-04-26 20:10:54: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:10:54: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:10:54: Importing File [E:\TIS\REGIONS\H\2G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:11:02: Importing File [E:\TIS\REGIONS\H\2G\GSM-CELL-LIST001.XML] in large file support mode
+2022-04-26 20:12:07: XML Import complete.
+2022-04-26 20:12:07: Completed IMPORT_XML [22] successfully
+2022-04-26 20:12:07: Running IMPORT_XML [23]
+2022-04-26 20:12:07: Reading XML file: E:\TIS\REGIONS\H\3G\NETWORK-LIST001.xml
+2022-04-26 20:12:07: Reading XML file: E:\TIS\REGIONS\H\3G\MU-NODE-LIST001.xml
+2022-04-26 20:12:07: Reading XML file: E:\TIS\REGIONS\H\3G\UMTS-CELL-LIST001.xml
+2022-04-26 20:12:07: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:12:07: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:12:07: Importing File [E:\TIS\REGIONS\H\3G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:12:21: Importing File [E:\TIS\REGIONS\H\3G\UMTS-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:13:35: XML Import complete.
+2022-04-26 20:13:35: Completed IMPORT_XML [23] successfully
+2022-04-26 20:13:35: Running IMPORT_XML [24]
+2022-04-26 20:13:35: Reading XML file: E:\TIS\REGIONS\H\4G\MU-NODE-LIST001.xml
+2022-04-26 20:13:35: Reading XML file: E:\TIS\REGIONS\H\4G\LTE-CELL-LIST001.xml
+2022-04-26 20:13:35: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:13:35: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:13:35: Importing File [E:\TIS\REGIONS\H\4G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:13:47: Importing File [E:\TIS\REGIONS\H\4G\LTE-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:15:07: XML Import complete.
+2022-04-26 20:15:07: Completed IMPORT_XML [24] successfully
+2022-04-26 20:15:07: Running IMPORT_XML [25]
+2022-04-26 20:15:07: Reading XML file: E:\TIS\REGIONS\H\REPEATER\REPEATER-LIST001.xml
+2022-04-26 20:15:07: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:15:07: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:15:07: Importing File [E:\TIS\REGIONS\H\REPEATER\REPEATER-LIST001.xml] in large file support mode
+2022-04-26 20:16:13: XML Import complete.
+2022-04-26 20:16:13: Completed IMPORT_XML [25] successfully
+2022-04-26 20:16:13: Running IMPORT_XML [26]
+2022-04-26 20:16:13: Reading XML file: E:\TIS\REGIONS\L\PROPERTY\PROPERTY-LIST001.xml
+2022-04-26 20:16:13: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:16:13: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:16:13: Importing File [E:\TIS\REGIONS\L\PROPERTY\PROPERTY-LIST001.xml] in large file support mode
+2022-04-26 20:16:21: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '52' on Property 'L_PROP_0091'
+2022-04-26 20:16:21: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '53' on Property 'L_PROP_0091'
+2022-04-26 20:16:21: Could not find Antenna Device with ID 'JB517650H_H65V6T2.14R_Z_JB' while importing Antenna '54' on Property 'L_PROP_0091'
+2022-04-26 20:16:21: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '52' on property 'L_PROP_0091'.
+2022-04-26 20:16:21: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '53' on property 'L_PROP_0091'.
+2022-04-26 20:16:21: Antenna device updated from 'Unknown' to 'JB517650H_H65V6T2.14R_Z_JB ' on physical antenna '54' on property 'L_PROP_0091'.
+2022-04-26 20:17:38: XML Import complete.
+2022-04-26 20:17:38: Completed IMPORT_XML [26] successfully
+2022-04-26 20:17:38: Running IMPORT_XML [27]
+2022-04-26 20:17:38: Reading XML file: E:\TIS\REGIONS\L\2G\GSM-CELL-LIST001.XML
+2022-04-26 20:17:38: Reading XML file: E:\TIS\REGIONS\L\2G\MU-NODE-LIST001.xml
+2022-04-26 20:17:38: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:17:38: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:17:38: Importing File [E:\TIS\REGIONS\L\2G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:17:46: Importing File [E:\TIS\REGIONS\L\2G\GSM-CELL-LIST001.XML] in large file support mode
+2022-04-26 20:18:59: XML Import complete.
+2022-04-26 20:18:59: Completed IMPORT_XML [27] successfully
+2022-04-26 20:18:59: Running IMPORT_XML [28]
+2022-04-26 20:18:59: Reading XML file: E:\TIS\REGIONS\L\3G\NETWORK-LIST001.xml
+2022-04-26 20:18:59: Reading XML file: E:\TIS\REGIONS\L\3G\MU-NODE-LIST001.xml
+2022-04-26 20:18:59: Reading XML file: E:\TIS\REGIONS\L\3G\UMTS-CELL-LIST001.xml
+2022-04-26 20:18:59: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:18:59: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:18:59: Importing File [E:\TIS\REGIONS\L\3G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:19:14: Importing File [E:\TIS\REGIONS\L\3G\UMTS-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:20:41: XML Import complete.
+2022-04-26 20:20:41: Completed IMPORT_XML [28] successfully
+2022-04-26 20:20:41: Running IMPORT_XML [29]
+2022-04-26 20:20:41: Reading XML file: E:\TIS\REGIONS\L\4G\MU-NODE-LIST001.xml
+2022-04-26 20:20:41: Reading XML file: E:\TIS\REGIONS\L\4G\LTE-CELL-LIST001.xml
+2022-04-26 20:20:41: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:20:41: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:20:41: Importing File [E:\TIS\REGIONS\L\4G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:20:53: Importing File [E:\TIS\REGIONS\L\4G\LTE-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:22:15: XML Import complete.
+2022-04-26 20:22:15: Completed IMPORT_XML [29] successfully
+2022-04-26 20:22:15: Running IMPORT_XML [30]
+2022-04-26 20:22:15: Reading XML file: E:\TIS\REGIONS\L\REPEATER\REPEATER-LIST001.xml
+2022-04-26 20:22:15: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:22:16: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:22:16: Importing File [E:\TIS\REGIONS\L\REPEATER\REPEATER-LIST001.xml] in large file support mode
+2022-04-26 20:23:12: XML Import complete.
+2022-04-26 20:23:12: Completed IMPORT_XML [30] successfully
+2022-04-26 20:23:12: Running IMPORT_XML [31]
+2022-04-26 20:23:13: Reading XML file: E:\TIS\REGIONS\NR\PROPERTY\PROPERTY-LIST001.xml
+2022-04-26 20:23:13: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:23:13: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:23:13: Importing File [E:\TIS\REGIONS\NR\PROPERTY\PROPERTY-LIST001.xml] in large file support mode
+2022-04-26 20:23:16: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '31' on Property 'R_PROP_4244'
+2022-04-26 20:23:16: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '32' on Property 'R_PROP_4244'
+2022-04-26 20:23:16: Could not find Antenna Device with ID '5962300_H70V7T0.10R_Z_JB' while importing Antenna '33' on Property 'R_PROP_4244'
+2022-04-26 20:23:16: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '31' on property 'R_PROP_4244'.
+2022-04-26 20:23:16: Updating antenna pattern on Logical Antenna '7' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Updating non-inherited antenna pattern on Logical Antenna '8' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Updating non-inherited antenna pattern on Logical Antenna '13' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Updating non-inherited antenna pattern on Logical Antenna '14' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Updating non-inherited antenna pattern on Logical Antenna '22' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '32' on property 'R_PROP_4244'.
+2022-04-26 20:23:16: Updating antenna pattern on Logical Antenna '9' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Updating non-inherited antenna pattern on Logical Antenna '15' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Updating non-inherited antenna pattern on Logical Antenna '23' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Antenna device updated from 'Unknown' to '5962300_H70V7T0.10R_Z_JB  ' on physical antenna '33' on property 'R_PROP_4244'.
+2022-04-26 20:23:16: Updating non-inherited antenna pattern on Logical Antenna '27' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Updating antenna pattern on Logical Antenna '24' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:23:16: Updating non-inherited antenna pattern on Logical Antenna '29' on property 'R_PROP_4244' to '5962300_H70V7T0.10R_Z_JB  \5962300_H070V7T0R_X_Z_JB_08_R1' as the physical antenna has been altered and it contains a different antenna device.
+2022-04-26 20:24:26: XML Import complete.
+2022-04-26 20:24:26: Completed IMPORT_XML [31] successfully
+2022-04-26 20:24:26: Running IMPORT_XML [32]
+2022-04-26 20:24:27: Reading XML file: E:\TIS\REGIONS\NR\2G\GSM-CELL-LIST001.XML
+2022-04-26 20:24:27: Reading XML file: E:\TIS\REGIONS\NR\2G\MU-NODE-LIST001.xml
+2022-04-26 20:24:27: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:24:27: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:24:27: Importing File [E:\TIS\REGIONS\NR\2G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:24:36: Importing File [E:\TIS\REGIONS\NR\2G\GSM-CELL-LIST001.XML] in large file support mode
+2022-04-26 20:25:42: XML Import complete.
+2022-04-26 20:25:42: Completed IMPORT_XML [32] successfully
+2022-04-26 20:25:42: Running IMPORT_XML [33]
+2022-04-26 20:25:42: Reading XML file: E:\TIS\REGIONS\NR\3G\NETWORK-LIST001.xml
+2022-04-26 20:25:42: Reading XML file: E:\TIS\REGIONS\NR\3G\MU-NODE-LIST001.xml
+2022-04-26 20:25:42: Reading XML file: E:\TIS\REGIONS\NR\3G\UMTS-CELL-LIST001.xml
+2022-04-26 20:25:42: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:25:42: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:25:42: Importing File [E:\TIS\REGIONS\NR\3G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:25:50: Importing File [E:\TIS\REGIONS\NR\3G\UMTS-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:27:00: XML Import complete.
+2022-04-26 20:27:00: Completed IMPORT_XML [33] successfully
+2022-04-26 20:27:00: Running IMPORT_XML [34]
+2022-04-26 20:27:00: Reading XML file: E:\TIS\REGIONS\NR\4G\MU-NODE-LIST001.xml
+2022-04-26 20:27:00: Reading XML file: E:\TIS\REGIONS\NR\4G\LTE-CELL-LIST001.xml
+2022-04-26 20:27:00: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:27:00: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:27:00: Importing File [E:\TIS\REGIONS\NR\4G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:27:07: Importing File [E:\TIS\REGIONS\NR\4G\LTE-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:28:38: XML Import complete.
+2022-04-26 20:28:38: Completed IMPORT_XML [34] successfully
+2022-04-26 20:28:38: Running IMPORT_XML [35]
+2022-04-26 20:28:38: Reading XML file: E:\TIS\REGIONS\NR\REPEATER\REPEATER-LIST001.xml
+2022-04-26 20:28:38: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:28:38: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:28:38: Importing File [E:\TIS\REGIONS\NR\REPEATER\REPEATER-LIST001.xml] in large file support mode
+2022-04-26 20:29:40: XML Import complete.
+2022-04-26 20:29:40: Completed IMPORT_XML [35] successfully
+2022-04-26 20:29:40: Running IMPORT_XML [36]
+2022-04-26 20:29:40: Reading XML file: E:\TIS\REGIONS\O\PROPERTY\PROPERTY-LIST001.xml
+2022-04-26 20:29:40: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:29:40: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:29:40: Importing File [E:\TIS\REGIONS\O\PROPERTY\PROPERTY-LIST001.xml] in large file support mode
+2022-04-26 20:31:32: XML Import complete.
+2022-04-26 20:31:32: Completed IMPORT_XML [36] successfully
+2022-04-26 20:31:32: Running IMPORT_XML [37]
+2022-04-26 20:31:32: Reading XML file: E:\TIS\REGIONS\O\2G\GSM-CELL-LIST001.XML
+2022-04-26 20:31:32: Reading XML file: E:\TIS\REGIONS\O\2G\MU-NODE-LIST001.xml
+2022-04-26 20:31:32: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:31:32: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:31:32: Importing File [E:\TIS\REGIONS\O\2G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:31:42: Importing File [E:\TIS\REGIONS\O\2G\GSM-CELL-LIST001.XML] in large file support mode
+2022-04-26 20:33:01: XML Import complete.
+2022-04-26 20:33:01: Completed IMPORT_XML [37] successfully
+2022-04-26 20:33:01: Running IMPORT_XML [38]
+2022-04-26 20:33:01: Reading XML file: E:\TIS\REGIONS\O\3G\NETWORK-LIST001.xml
+2022-04-26 20:33:01: Reading XML file: E:\TIS\REGIONS\O\3G\MU-NODE-LIST001.xml
+2022-04-26 20:33:01: Reading XML file: E:\TIS\REGIONS\O\3G\UMTS-CELL-LIST001.xml
+2022-04-26 20:33:01: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:33:01: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:33:01: Importing File [E:\TIS\REGIONS\O\3G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:33:01: Warning: Carrier 'NotAllowed_CARRIER9' not found for Node '30547O1_1_217'
+2022-04-26 20:33:10: Warning: Carrier 'NotAllowed_CARRIER9' not found for Node '30547O1_1_416'
+2022-04-26 20:33:11: Warning: Carrier 'NotAllowed_CARRIER9' not found for Node '32268O1_1_316'
+2022-04-26 20:33:14: Warning: Carrier 'NotAllowed_CARRIER9' not found for Node '30547O1_1_420'
+2022-04-26 20:33:15: Importing File [E:\TIS\REGIONS\O\3G\UMTS-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:33:28: Could not import UMTS Cell with ID = '32387C1_2_216_13' because dependency MU-Node (UMTS) with ID = '32387C1_2_216' was not found.
+2022-04-26 20:33:28: Could not import UMTS Cell with ID = '32387C1_2_216_14' because dependency MU-Node (UMTS) with ID = '32387C1_2_216' was not found.
+2022-04-26 20:33:28: Could not import UMTS Cell with ID = '32387C1_2_216_15' because dependency MU-Node (UMTS) with ID = '32387C1_2_216' was not found.
+2022-04-26 20:34:46: XML Import complete.
+2022-04-26 20:34:46: Completed IMPORT_XML [38] successfully
+2022-04-26 20:34:46: Running IMPORT_XML [39]
+2022-04-26 20:34:46: Reading XML file: E:\TIS\REGIONS\O\4G\MU-NODE-LIST001.xml
+2022-04-26 20:34:46: Reading XML file: E:\TIS\REGIONS\O\4G\LTE-CELL-LIST001.xml
+2022-04-26 20:34:46: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:34:46: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:34:46: Importing File [E:\TIS\REGIONS\O\4G\MU-NODE-LIST001.xml] in large file support mode
+2022-04-26 20:34:58: Importing File [E:\TIS\REGIONS\O\4G\LTE-CELL-LIST001.xml] in large file support mode
+2022-04-26 20:35:14: Could not import LTE Cell with ID = '42387C1_2_313_1' because dependency MU-Node (LTE) with ID = '42387C1_2_313' was not found.
+2022-04-26 20:35:14: Could not import LTE Cell with ID = '42387C1_2_313_2' because dependency MU-Node (LTE) with ID = '42387C1_2_313' was not found.
+2022-04-26 20:35:14: Could not import LTE Cell with ID = '42387C1_2_313_3' because dependency MU-Node (LTE) with ID = '42387C1_2_313' was not found.
+2022-04-26 20:36:30: XML Import complete.
+2022-04-26 20:36:30: Completed IMPORT_XML [39] successfully
+2022-04-26 20:36:30: Running IMPORT_XML [40]
+2022-04-26 20:36:30: Reading XML file: E:\TIS\REGIONS\O\REPEATER\REPEATER-LIST001.xml
+2022-04-26 20:36:30: Unknown value specified for IMPORTERROR token, accepted values are: IGNORE STOP
+2022-04-26 20:36:30: Warning: IMPORTERROR token not specified, defaulting to IGNORE
+2022-04-26 20:36:30: Importing File [E:\TIS\REGIONS\O\REPEATER\REPEATER-LIST001.xml] in large file support mode
+2022-04-26 20:37:33: XML Import complete.
+2022-04-26 20:37:33: Completed IMPORT_XML [40] successfully
+2022-04-26 20:37:33: Running COMMIT_NETWORK [41]
+2022-04-26 21:21:08: Completed COMMIT_NETWORK [41] successfully
+2022-04-26 21:21:08: Closing Project ...
+2022-04-26 21:21:13: Closed Project 21: 'MWINGZ_REFERENCE_2G_3G_4G'
+2022-04-26 21:21:13: Logged out from 'PLNNRP04' as user 'DEXPORT1'
+2022-04-26 21:21:13: DB Commander v9.1.0 Terminating...

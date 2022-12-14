@@ -1,0 +1,97 @@
+2022-04-26 19:03:49: DB Commander v9.1.0 Starting...
+2022-04-26 19:03:49: Using command file E:\tis\regions\bfw.txt
+2022-04-26 19:03:49: Connecting to 99_NEW_PROD_ASSET_91 as 'DEXPORT1'
+2022-04-26 19:03:49: ODBC Driver version: 12.1.0.2.0
+2022-04-26 19:03:52: DB Settings - TNS_ADMIN has been set to E:\app\client\product\12.1.0\client_1\network\admin
+2022-04-26 19:03:52: Using Database Settings...
+2022-04-26 19:03:52: Logged into 'PLNNRP04' as user 'DEXPORT1'
+2022-04-26 19:03:52: Read 27 project(s):
+2022-04-26 19:04:52: WARNING: The maximum disk usage parameter is not set - no clear up of unused prediction files will take place. Please set this parameter in the project settings dialog box.
+2022-04-26 19:04:52: Prediction Engine Initialization Warning (Prediction task error: Encountered a communications error while attempting to contact the task distribution coordinator (*System failed to determine system error information (generic-distributor-module)*)).
+2022-04-26 19:04:52: Able to process 4 concurrent predictions locally
+2022-04-26 19:04:52: Failed to convert prediction folder path to UNC format (Could not resolve domain and machine name for '\\svm-cifs03-vl63a.mobilebelgium.be\netact_test\REGION_BFW\Predictions' (OS error 5))!
+2022-04-26 19:04:52: Failed to convert height-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DTM' is local, so cannot be expanded to a valid UNC path)!
+2022-04-26 19:04:52: Failed to convert clutter-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DLU' is local, so cannot be expanded to a valid UNC path)!
+2022-04-26 19:04:52: Failed to convert vector-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\LINES' is local, so cannot be expanded to a valid UNC path)!
+2022-04-26 19:04:52: Failed to convert building-raster-data folder path to UNC format (Path 'C:\DATA\MAP_INDEXES\BELGIUM\DHM' is local, so cannot be expanded to a valid UNC path)!
+2022-04-26 19:04:52: WARNING: Prediction distribution will be unavailable due to one or more critical folder paths not being in UNC format (see above)
+2022-04-26 19:04:52: Local processing of predictions favoured
+2022-04-26 19:04:52: Starting Project  8: REGION BFW 2G 3G
+2022-04-26 19:05:00: Found backdrops at 7 resolutions in folder 'C:\DATA\MAP_INDEXES\BELGIUM\BACKDROP'.
+2022-04-26 19:05:12: Creating new index file as file \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\REGION_BFW\User Vectors and Measurements\index.xml for 'User Vectors' as the data appears to be invalid.
+2022-04-26 19:05:13: New Index about to be created as existing had invalid data. backup of existing file in: \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\REGION_BFW\User Vectors and Measurements\index_invalid_data.xml
+2022-04-26 19:05:13: Error: Can not save change to the index.xml file due to the following reason: Insufficient disk space to save (null)..
+2022-04-26 19:05:13: Failed to create the new Index file \\svm-cifs03-vl63a.mobilebelgium.be\netact_test\REGION_BFW\User Vectors and Measurements\index.xml
+2022-04-26 19:05:13: Error: Loading User Vectors index.xml file. No User Vectors will be loaded.
+2022-04-26 19:07:59: Refreshing connections
+2022-04-26 19:08:00: Refreshing connections complete
+2022-04-26 19:08:08: Ready
+2022-04-26 19:08:08: Reading Command File E:\tis\regions\bfw.txt
+2022-04-26 19:08:08: Running EXPORT_XML [1]
+2022-04-26 19:08:08: Export of Prediction System Info is set to: NO.
+2022-04-26 19:08:08: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-26 19:08:08: Export of Inward Neighbours is set to: NO.
+2022-04-26 19:08:08: Setting Antenna Export Filter to: All
+2022-04-26 19:08:08: Using filter: DAILY_EXPORT.
+2022-04-26 19:08:08: Exporting to: E:\tis\regions\bfw\property.
+2022-04-26 19:08:08: Location unit set to: DEFINED.
+2022-04-26 19:08:19: Saved E:\tis\regions\bfw\property\PROPERTY-LIST001.xml (used large file support)
+2022-04-26 19:08:19: Saved E:\tis\regions\bfw\property\INDEX001.xml
+2022-04-26 19:08:19: XML Export complete.
+2022-04-26 19:08:19: Completed EXPORT_XML [1] successfully
+2022-04-26 19:08:19: Running EXPORT_XML [2]
+2022-04-26 19:08:19: Export of Prediction System Info is set to: NO.
+2022-04-26 19:08:19: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-26 19:08:19: Export of Inward Neighbours is set to: NO.
+2022-04-26 19:08:19: Setting Antenna Export Filter to: All
+2022-04-26 19:08:19: Using filter: DAILY_EXPORT_2G.
+2022-04-26 19:08:19: Exporting to: E:\tis\regions\bfw\2g.
+2022-04-26 19:08:19: Location unit set to: DEFINED.
+2022-04-26 19:08:22: Saved E:\tis\regions\bfw\2g\MU-NODE-LIST001.xml (used large file support)
+2022-04-26 19:08:27: Saved E:\tis\regions\bfw\2g\GSM-CELL-LIST001.xml (used large file support)
+2022-04-26 19:08:27: Saved E:\tis\regions\bfw\2g\INDEX001.xml
+2022-04-26 19:08:27: XML Export complete.
+2022-04-26 19:08:27: Completed EXPORT_XML [2] successfully
+2022-04-26 19:08:27: Running EXPORT_XML [3]
+2022-04-26 19:08:27: Export of Prediction System Info is set to: NO.
+2022-04-26 19:08:27: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-26 19:08:27: Export of Inward Neighbours is set to: NO.
+2022-04-26 19:08:27: Setting Antenna Export Filter to: All
+2022-04-26 19:08:27: Using filter: DAILY_EXPORT_3G.
+2022-04-26 19:08:27: Exporting to: E:\tis\regions\bfw\3g.
+2022-04-26 19:08:27: Location unit set to: DEFINED.
+2022-04-26 19:08:28: Saved E:\tis\regions\bfw\3g\NETWORK-LIST001.xml
+2022-04-26 19:08:32: Saved E:\tis\regions\bfw\3g\MU-NODE-LIST001.xml (used large file support)
+2022-04-26 19:08:41: Saved E:\tis\regions\bfw\3g\UMTS-CELL-LIST001.xml (used large file support)
+2022-04-26 19:08:41: Saved E:\tis\regions\bfw\3g\INDEX001.xml
+2022-04-26 19:08:41: XML Export complete.
+2022-04-26 19:08:41: Completed EXPORT_XML [3] successfully
+2022-04-26 19:08:41: Running EXPORT_XML [4]
+2022-04-26 19:08:41: Export of Prediction System Info is set to: NO.
+2022-04-26 19:08:41: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-26 19:08:41: Export of Inward Neighbours is set to: NO.
+2022-04-26 19:08:41: Setting Antenna Export Filter to: All
+2022-04-26 19:08:41: Using filter: DAILY_EXPORT_4G.
+2022-04-26 19:08:41: Exporting to: E:\tis\regions\bfw\4g.
+2022-04-26 19:08:41: Location unit set to: DEFINED.
+2022-04-26 19:08:43: Saved E:\tis\regions\bfw\4g\MU-NODE-LIST001.xml (used large file support)
+2022-04-26 19:08:54: Saved E:\tis\regions\bfw\4g\LTE-CELL-LIST001.xml (used large file support)
+2022-04-26 19:08:54: Saved E:\tis\regions\bfw\4g\INDEX001.xml
+2022-04-26 19:08:54: XML Export complete.
+2022-04-26 19:08:54: Completed EXPORT_XML [4] successfully
+2022-04-26 19:08:54: Running EXPORT_XML [5]
+2022-04-26 19:08:54: Export of Prediction System Info is set to: NO.
+2022-04-26 19:08:54: Export of Repeater Pathloss from Parent Cell is set to: NO.
+2022-04-26 19:08:54: Export of Inward Neighbours is set to: NO.
+2022-04-26 19:08:54: Setting Antenna Export Filter to: All
+2022-04-26 19:08:54: Using filter: REPEATER_OUTDOOR.
+2022-04-26 19:08:54: Exporting to: E:\tis\regions\bfw\repeater.
+2022-04-26 19:08:54: Location unit set to: DEFINED.
+2022-04-26 19:08:55: Saved E:\tis\regions\bfw\repeater\REPEATER-LIST001.xml (used large file support)
+2022-04-26 19:08:55: Saved E:\tis\regions\bfw\repeater\INDEX001.xml
+2022-04-26 19:08:55: XML Export complete.
+2022-04-26 19:08:55: Completed EXPORT_XML [5] successfully
+2022-04-26 19:08:55: Closing Project ...
+2022-04-26 19:09:00: Closed Project  8: 'REGION BFW 2G 3G'
+2022-04-26 19:09:00: Logged out from 'PLNNRP04' as user 'DEXPORT1'
+2022-04-26 19:09:00: DB Commander v9.1.0 Terminating...

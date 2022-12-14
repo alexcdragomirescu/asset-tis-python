@@ -1,0 +1,339 @@
+2022-04-21 19:00:03,544 - root - INFO - Logging enabled.
+2022-04-21 19:00:03,591 - root - INFO - The script was executed from "tis.py", located in the     path-prefix "E:\tis" on the machine "MSEKIMW778P".
+2022-04-21 19:00:03,794 - root - INFO - Exporting region A.
+2022-04-21 19:00:03,794 - root - INFO - Removing exported data...
+2022-04-21 19:00:03,794 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\property\INDEX001.xml".
+2022-04-21 19:00:03,809 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\property\PROPERTY-LIST001.xml".
+2022-04-21 19:00:03,809 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\2g\GSM-CELL-LIST001.xml".
+2022-04-21 19:00:03,809 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\2g\INDEX001.xml".
+2022-04-21 19:00:03,809 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\2g\MU-NODE-LIST001.xml".
+2022-04-21 19:00:03,809 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\3g\INDEX001.xml".
+2022-04-21 19:00:03,809 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\3g\MU-NODE-LIST001.xml".
+2022-04-21 19:00:03,809 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\3g\NETWORK-LIST001.xml".
+2022-04-21 19:00:03,825 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\3g\UMTS-CELL-LIST001.xml".
+2022-04-21 19:00:03,825 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\4g\INDEX001.xml".
+2022-04-21 19:00:03,825 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\4g\LTE-CELL-LIST001.xml".
+2022-04-21 19:00:03,825 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\4g\MU-NODE-LIST001.xml".
+2022-04-21 19:00:03,825 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\repeater\INDEX001.xml".
+2022-04-21 19:00:03,825 - remove - INFO - Successfully removed pathname "E:\tis\regions\a\repeater\REPEATER-LIST001.xml".
+2022-04-21 19:00:03,825 - root - INFO - Exporting data...
+2022-04-21 19:00:03,841 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:00:03,841 - remove - INFO - Successfully removed pathname "E:\tis\regions\a_2022-04-20_19-00-04.log".
+2022-04-21 19:00:03,841 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 19:03:39,832 - dbcmd - INFO - Checking log file "E:\tis\regions\a_2022-04-21_19-00-04.log"...
+2022-04-21 19:03:39,832 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\a_2022-04-21_19-00-04.log" to destination"E:\tis\logs\tis_20220421190003\a_2022-04-21_19-00-04.log".
+2022-04-21 19:03:40,237 - root - INFO - Done.
+2022-04-21 19:03:40,237 - root - INFO - Exporting region BFW.
+2022-04-21 19:03:40,237 - root - INFO - Removing exported data...
+2022-04-21 19:03:40,237 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\property\INDEX001.xml".
+2022-04-21 19:03:40,253 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\property\PROPERTY-LIST001.xml".
+2022-04-21 19:03:40,253 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\2g\GSM-CELL-LIST001.xml".
+2022-04-21 19:03:40,253 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\2g\INDEX001.xml".
+2022-04-21 19:03:40,253 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\2g\MU-NODE-LIST001.xml".
+2022-04-21 19:03:40,253 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\3g\INDEX001.xml".
+2022-04-21 19:03:40,268 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\3g\MU-NODE-LIST001.xml".
+2022-04-21 19:03:40,268 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\3g\NETWORK-LIST001.xml".
+2022-04-21 19:03:40,268 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\3g\UMTS-CELL-LIST001.xml".
+2022-04-21 19:03:40,268 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\4g\INDEX001.xml".
+2022-04-21 19:03:40,284 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\4g\LTE-CELL-LIST001.xml".
+2022-04-21 19:03:40,284 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\4g\MU-NODE-LIST001.xml".
+2022-04-21 19:03:40,284 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\repeater\INDEX001.xml".
+2022-04-21 19:03:40,284 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw\repeater\REPEATER-LIST001.xml".
+2022-04-21 19:03:40,284 - root - INFO - Exporting data...
+2022-04-21 19:03:40,284 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:03:40,284 - remove - INFO - Successfully removed pathname "E:\tis\regions\bfw_2022-04-20_19-04-21.log".
+2022-04-21 19:03:40,284 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 19:08:46,522 - dbcmd - INFO - Checking log file "E:\tis\regions\bfw_2022-04-21_19-03-40.log"...
+2022-04-21 19:08:46,537 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\bfw_2022-04-21_19-03-40.log" to destination"E:\tis\logs\tis_20220421190003\bfw_2022-04-21_19-03-40.log".
+2022-04-21 19:08:47,177 - root - INFO - Done.
+2022-04-21 19:08:47,177 - root - INFO - Exporting region C.
+2022-04-21 19:08:47,177 - root - INFO - Removing exported data...
+2022-04-21 19:08:47,177 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\property\INDEX001.xml".
+2022-04-21 19:08:47,177 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\property\PROPERTY-LIST001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\2g\GSM-CELL-LIST001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\2g\INDEX001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\2g\MU-NODE-LIST001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\3g\INDEX001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\3g\MU-NODE-LIST001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\3g\NETWORK-LIST001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\3g\UMTS-CELL-LIST001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\4g\INDEX001.xml".
+2022-04-21 19:08:47,193 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\4g\LTE-CELL-LIST001.xml".
+2022-04-21 19:08:47,208 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\4g\MU-NODE-LIST001.xml".
+2022-04-21 19:08:47,208 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\repeater\INDEX001.xml".
+2022-04-21 19:08:47,208 - remove - INFO - Successfully removed pathname "E:\tis\regions\c\repeater\REPEATER-LIST001.xml".
+2022-04-21 19:08:47,208 - root - INFO - Exporting data...
+2022-04-21 19:08:47,208 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:08:47,208 - remove - INFO - Successfully removed pathname "E:\tis\regions\c_2022-04-20_19-08-53.log".
+2022-04-21 19:08:47,208 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 19:11:55,823 - dbcmd - INFO - Checking log file "E:\tis\regions\c_2022-04-21_19-08-47.log"...
+2022-04-21 19:11:55,839 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\c_2022-04-21_19-08-47.log" to destination"E:\tis\logs\tis_20220421190003\c_2022-04-21_19-08-47.log".
+2022-04-21 19:11:56,042 - root - INFO - Done.
+2022-04-21 19:11:56,042 - root - INFO - Exporting region G.
+2022-04-21 19:11:56,042 - root - INFO - Removing exported data...
+2022-04-21 19:11:56,042 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\property\INDEX001.xml".
+2022-04-21 19:11:56,042 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\property\PROPERTY-LIST001.xml".
+2022-04-21 19:11:56,042 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\2g\GSM-CELL-LIST001.xml".
+2022-04-21 19:11:56,042 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\2g\INDEX001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\2g\MU-NODE-LIST001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\3g\INDEX001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\3g\MU-NODE-LIST001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\3g\NETWORK-LIST001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\3g\UMTS-CELL-LIST001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\4g\INDEX001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\4g\LTE-CELL-LIST001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\4g\MU-NODE-LIST001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\repeater\INDEX001.xml".
+2022-04-21 19:11:56,057 - remove - INFO - Successfully removed pathname "E:\tis\regions\g\repeater\REPEATER-LIST001.xml".
+2022-04-21 19:11:56,073 - root - INFO - Exporting data...
+2022-04-21 19:11:56,073 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:11:56,073 - remove - INFO - Successfully removed pathname "E:\tis\regions\g_2022-04-20_19-12-36.log".
+2022-04-21 19:11:56,073 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 19:14:47,451 - dbcmd - INFO - Checking log file "E:\tis\regions\g_2022-04-21_19-11-56.log"...
+2022-04-21 19:14:47,451 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\g_2022-04-21_19-11-56.log" to destination"E:\tis\logs\tis_20220421190003\g_2022-04-21_19-11-56.log".
+2022-04-21 19:14:47,529 - root - INFO - Done.
+2022-04-21 19:14:47,529 - root - INFO - Exporting region H.
+2022-04-21 19:14:47,529 - root - INFO - Removing exported data...
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\property\INDEX001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\property\PROPERTY-LIST001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\2g\GSM-CELL-LIST001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\2g\INDEX001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\2g\MU-NODE-LIST001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\3g\INDEX001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\3g\MU-NODE-LIST001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\3g\NETWORK-LIST001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\3g\UMTS-CELL-LIST001.xml".
+2022-04-21 19:14:47,529 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\4g\INDEX001.xml".
+2022-04-21 19:14:47,545 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\4g\LTE-CELL-LIST001.xml".
+2022-04-21 19:14:47,545 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\4g\MU-NODE-LIST001.xml".
+2022-04-21 19:14:47,545 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\repeater\INDEX001.xml".
+2022-04-21 19:14:47,545 - remove - INFO - Successfully removed pathname "E:\tis\regions\h\repeater\REPEATER-LIST001.xml".
+2022-04-21 19:14:47,545 - root - INFO - Exporting data...
+2022-04-21 19:14:47,545 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:14:47,545 - remove - INFO - Successfully removed pathname "E:\tis\regions\h_2022-04-20_19-15-56.log".
+2022-04-21 19:14:47,545 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 19:17:40,946 - dbcmd - INFO - Checking log file "E:\tis\regions\h_2022-04-21_19-14-47.log"...
+2022-04-21 19:17:40,962 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\h_2022-04-21_19-14-47.log" to destination"E:\tis\logs\tis_20220421190003\h_2022-04-21_19-14-47.log".
+2022-04-21 19:17:41,118 - root - INFO - Done.
+2022-04-21 19:17:41,118 - root - INFO - Exporting region L.
+2022-04-21 19:17:41,118 - root - INFO - Removing exported data...
+2022-04-21 19:17:41,118 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\property\INDEX001.xml".
+2022-04-21 19:17:41,118 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\property\PROPERTY-LIST001.xml".
+2022-04-21 19:17:41,118 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\2g\GSM-CELL-LIST001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\2g\INDEX001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\2g\MU-NODE-LIST001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\3g\INDEX001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\3g\MU-NODE-LIST001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\3g\NETWORK-LIST001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\3g\UMTS-CELL-LIST001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\4g\INDEX001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\4g\LTE-CELL-LIST001.xml".
+2022-04-21 19:17:41,134 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\4g\MU-NODE-LIST001.xml".
+2022-04-21 19:17:41,149 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\repeater\INDEX001.xml".
+2022-04-21 19:17:41,149 - remove - INFO - Successfully removed pathname "E:\tis\regions\l\repeater\REPEATER-LIST001.xml".
+2022-04-21 19:17:41,149 - root - INFO - Exporting data...
+2022-04-21 19:17:41,149 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:17:41,149 - remove - INFO - Successfully removed pathname "E:\tis\regions\l_2022-04-20_19-18-41.log".
+2022-04-21 19:17:41,149 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 19:21:00,916 - dbcmd - INFO - Checking log file "E:\tis\regions\l_2022-04-21_19-17-41.log"...
+2022-04-21 19:21:00,916 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\l_2022-04-21_19-17-41.log" to destination"E:\tis\logs\tis_20220421190003\l_2022-04-21_19-17-41.log".
+2022-04-21 19:21:00,994 - root - INFO - Done.
+2022-04-21 19:21:00,994 - root - INFO - Exporting region NR.
+2022-04-21 19:21:00,994 - root - INFO - Removing exported data...
+2022-04-21 19:21:00,994 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\property\INDEX001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\property\PROPERTY-LIST001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\2g\GSM-CELL-LIST001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\2g\INDEX001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\2g\MU-NODE-LIST001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\3g\INDEX001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\3g\MU-NODE-LIST001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\3g\NETWORK-LIST001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\3g\UMTS-CELL-LIST001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\4g\INDEX001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\4g\LTE-CELL-LIST001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\4g\MU-NODE-LIST001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\repeater\INDEX001.xml".
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr\repeater\REPEATER-LIST001.xml".
+2022-04-21 19:21:01,009 - root - INFO - Exporting data...
+2022-04-21 19:21:01,009 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:21:01,009 - remove - INFO - Successfully removed pathname "E:\tis\regions\nr_2022-04-20_19-22-08.log".
+2022-04-21 19:21:01,009 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 19:23:53,396 - dbcmd - INFO - Checking log file "E:\tis\regions\nr_2022-04-21_19-21-01.log"...
+2022-04-21 19:23:53,396 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\nr_2022-04-21_19-21-01.log" to destination"E:\tis\logs\tis_20220421190003\nr_2022-04-21_19-21-01.log".
+2022-04-21 19:23:53,474 - root - INFO - Done.
+2022-04-21 19:23:53,474 - root - INFO - Exporting region O.
+2022-04-21 19:23:53,474 - root - INFO - Removing exported data...
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\property\INDEX001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\property\PROPERTY-LIST001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\2g\GSM-CELL-LIST001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\2g\INDEX001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\2g\MU-NODE-LIST001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\3g\INDEX001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\3g\MU-NODE-LIST001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\3g\NETWORK-LIST001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\3g\UMTS-CELL-LIST001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\4g\INDEX001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\4g\LTE-CELL-LIST001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\4g\MU-NODE-LIST001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\repeater\INDEX001.xml".
+2022-04-21 19:23:53,474 - remove - INFO - Successfully removed pathname "E:\tis\regions\o\repeater\REPEATER-LIST001.xml".
+2022-04-21 19:23:53,474 - root - INFO - Exporting data...
+2022-04-21 19:23:53,489 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:23:53,489 - remove - INFO - Successfully removed pathname "E:\tis\regions\o_2022-04-20_19-25-29.log".
+2022-04-21 19:23:53,489 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 19:27:16,296 - dbcmd - INFO - Checking log file "E:\tis\regions\o_2022-04-21_19-23-53.log"...
+2022-04-21 19:27:16,312 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\o_2022-04-21_19-23-53.log" to destination"E:\tis\logs\tis_20220421190003\o_2022-04-21_19-23-53.log".
+2022-04-21 19:27:16,484 - root - INFO - Done.
+2022-04-21 19:27:16,484 - root - INFO - Importing data to reference...
+2022-04-21 19:27:16,484 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 19:27:16,484 - remove - INFO - Successfully removed pathname "E:\tis\regions\reference_2022-04-20_19-28-21.log".
+2022-04-21 19:27:16,484 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 21:17:08,930 - dbcmd - INFO - Checking log file "E:\tis\regions\reference_2022-04-21_19-27-16.log"...
+2022-04-21 21:17:09,040 - copy_file - INFO - Successfully copied pathname "E:\tis\regions\reference_2022-04-21_19-27-16.log" to destination"E:\tis\logs\tis_20220421190003\reference_2022-04-21_19-27-16.log".
+2022-04-21 21:17:09,040 - root - INFO - Done.
+2022-04-21 21:17:09,040 - root - INFO - Removing reference exported data...
+2022-04-21 21:17:09,040 - remove - INFO - Successfully removed pathname "E:\tis\reference\a\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,040 - remove - INFO - Successfully removed pathname "E:\tis\reference\a\INDEX001.xml".
+2022-04-21 21:17:09,055 - remove - INFO - Successfully removed pathname "E:\tis\reference\a\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,055 - remove - INFO - Successfully removed pathname "E:\tis\reference\b\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,055 - remove - INFO - Successfully removed pathname "E:\tis\reference\b\INDEX001.xml".
+2022-04-21 21:17:09,071 - remove - INFO - Successfully removed pathname "E:\tis\reference\b\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,071 - remove - INFO - Successfully removed pathname "E:\tis\reference\c\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,071 - remove - INFO - Successfully removed pathname "E:\tis\reference\c\INDEX001.xml".
+2022-04-21 21:17:09,087 - remove - INFO - Successfully removed pathname "E:\tis\reference\c\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,087 - remove - INFO - Successfully removed pathname "E:\tis\reference\f\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,087 - remove - INFO - Successfully removed pathname "E:\tis\reference\f\INDEX001.xml".
+2022-04-21 21:17:09,102 - remove - INFO - Successfully removed pathname "E:\tis\reference\f\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,102 - remove - INFO - Successfully removed pathname "E:\tis\reference\g\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,102 - remove - INFO - Successfully removed pathname "E:\tis\reference\g\INDEX001.xml".
+2022-04-21 21:17:09,118 - remove - INFO - Successfully removed pathname "E:\tis\reference\g\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,118 - remove - INFO - Successfully removed pathname "E:\tis\reference\h\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,118 - remove - INFO - Successfully removed pathname "E:\tis\reference\h\INDEX001.xml".
+2022-04-21 21:17:09,118 - remove - INFO - Successfully removed pathname "E:\tis\reference\h\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,133 - remove - INFO - Successfully removed pathname "E:\tis\reference\l\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,133 - remove - INFO - Successfully removed pathname "E:\tis\reference\l\INDEX001.xml".
+2022-04-21 21:17:09,133 - remove - INFO - Successfully removed pathname "E:\tis\reference\l\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,133 - remove - INFO - Successfully removed pathname "E:\tis\reference\m\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,133 - remove - INFO - Successfully removed pathname "E:\tis\reference\m\INDEX001.xml".
+2022-04-21 21:17:09,133 - remove - INFO - Successfully removed pathname "E:\tis\reference\m\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,149 - remove - INFO - Successfully removed pathname "E:\tis\reference\n\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,149 - remove - INFO - Successfully removed pathname "E:\tis\reference\n\INDEX001.xml".
+2022-04-21 21:17:09,149 - remove - INFO - Successfully removed pathname "E:\tis\reference\n\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,149 - remove - INFO - Successfully removed pathname "E:\tis\reference\o\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,149 - remove - INFO - Successfully removed pathname "E:\tis\reference\o\INDEX001.xml".
+2022-04-21 21:17:09,165 - remove - INFO - Successfully removed pathname "E:\tis\reference\o\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,165 - remove - INFO - Successfully removed pathname "E:\tis\reference\r\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,165 - remove - INFO - Successfully removed pathname "E:\tis\reference\r\INDEX001.xml".
+2022-04-21 21:17:09,165 - remove - INFO - Successfully removed pathname "E:\tis\reference\r\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,180 - remove - INFO - Successfully removed pathname "E:\tis\reference\w\GSM-CELL-LIST001.xml".
+2022-04-21 21:17:09,180 - remove - INFO - Successfully removed pathname "E:\tis\reference\w\INDEX001.xml".
+2022-04-21 21:17:09,180 - remove - INFO - Successfully removed pathname "E:\tis\reference\w\UMTS-CELL-LIST001.xml".
+2022-04-21 21:17:09,243 - remove - INFO - Successfully removed pathname "E:\tis\reference\all\ANTENNA-LIST001.xml".
+2022-04-21 21:17:09,243 - remove - INFO - Successfully removed pathname "E:\tis\reference\all\CAR-LAYER-LIST001.xml".
+2022-04-21 21:17:09,243 - remove - INFO - Successfully removed pathname "E:\tis\reference\all\INDEX001.xml".
+2022-04-21 21:17:09,274 - remove - INFO - Successfully removed pathname "E:\tis\reference\all\LTE-CELL-LIST001.xml".
+2022-04-21 21:17:09,274 - remove - INFO - Successfully removed pathname "E:\tis\reference\all\NETWORK-LIST001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\all\PROPERTY-LIST001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\all\REPEATER-LIST001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\all\SUPPLIER-LIST001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\nodes\2g\INDEX001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\nodes\2g\MU-NODE-LIST001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\nodes\3g\INDEX001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\nodes\3g\MU-NODE-LIST001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\nodes\4g\INDEX001.xml".
+2022-04-21 21:17:09,352 - remove - INFO - Successfully removed pathname "E:\tis\reference\nodes\4g\MU-NODE-LIST001.xml".
+2022-04-21 21:17:09,352 - root - INFO - Exporting reference data...
+2022-04-21 21:17:09,367 - dbcmd - INFO - Removing old dbcmd log files...
+2022-04-21 21:17:09,367 - remove - INFO - Successfully removed pathname "E:\tis\reference\export_2022-04-20_21-00-48.log".
+2022-04-21 21:17:09,367 - dbcmd - INFO - Executing dbcmd...
+2022-04-21 21:36:12,186 - dbcmd - INFO - Checking log file "E:\tis\reference\export_2022-04-21_21-17-09.log"...
+2022-04-21 21:36:12,201 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\export_2022-04-21_21-17-09.log" to destination"E:\tis\logs\tis_20220421190003\export_2022-04-21_21-17-09.log".
+2022-04-21 21:36:12,201 - root - INFO - Done.
+2022-04-21 21:36:12,201 - root - INFO - Removing processed files...
+2022-04-21 21:36:12,264 - remove - INFO - Successfully removed pathname "E:\tis\output\ANTENNA-LIST001.xml".
+2022-04-21 21:36:12,264 - remove - INFO - Successfully removed pathname "E:\tis\output\CAR-LAYER-LIST001.xml".
+2022-04-21 21:36:12,264 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-A-LIST001.xml".
+2022-04-21 21:36:12,264 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-B-LIST001.xml".
+2022-04-21 21:36:12,264 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-C-LIST001.xml".
+2022-04-21 21:36:12,264 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-F-LIST001.xml".
+2022-04-21 21:36:12,279 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-G-LIST001.xml".
+2022-04-21 21:36:12,279 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-H-LIST001.xml".
+2022-04-21 21:36:12,279 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-L-LIST001.xml".
+2022-04-21 21:36:12,279 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-M-LIST001.xml".
+2022-04-21 21:36:12,279 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-N-LIST001.xml".
+2022-04-21 21:36:12,279 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-O-LIST001.xml".
+2022-04-21 21:36:12,279 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-R-LIST001.xml".
+2022-04-21 21:36:12,279 - remove - INFO - Successfully removed pathname "E:\tis\output\GSM-CELL-W-LIST001.xml".
+2022-04-21 21:36:12,326 - remove - INFO - Successfully removed pathname "E:\tis\output\LTE-CELL-LIST001.xml".
+2022-04-21 21:36:12,326 - remove - INFO - Successfully removed pathname "E:\tis\output\MU-NODE-2G-LIST001.xml".
+2022-04-21 21:36:12,326 - remove - INFO - Successfully removed pathname "E:\tis\output\MU-NODE-3G-LIST001.xml".
+2022-04-21 21:36:12,342 - remove - INFO - Successfully removed pathname "E:\tis\output\MU-NODE-4G-LIST001.xml".
+2022-04-21 21:36:12,342 - remove - INFO - Successfully removed pathname "E:\tis\output\NETWORK-LIST001.xml".
+2022-04-21 21:36:12,420 - remove - INFO - Successfully removed pathname "E:\tis\output\PROPERTY-LIST001.xml".
+2022-04-21 21:36:12,420 - remove - INFO - Successfully removed pathname "E:\tis\output\REPEATER-LIST001.xml".
+2022-04-21 21:36:12,420 - remove - INFO - Successfully removed pathname "E:\tis\output\SUPPLIER-LIST001.xml".
+2022-04-21 21:36:12,420 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-A-LIST001.xml".
+2022-04-21 21:36:12,435 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-B-LIST001.xml".
+2022-04-21 21:36:12,435 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-C-LIST001.xml".
+2022-04-21 21:36:12,435 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-F-LIST001.xml".
+2022-04-21 21:36:12,435 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-G-LIST001.xml".
+2022-04-21 21:36:12,451 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-H-LIST001.xml".
+2022-04-21 21:36:12,451 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-L-LIST001.xml".
+2022-04-21 21:36:12,451 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-M-LIST001.xml".
+2022-04-21 21:36:12,451 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-N-LIST001.xml".
+2022-04-21 21:36:12,451 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-O-LIST001.xml".
+2022-04-21 21:36:12,466 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-R-LIST001.xml".
+2022-04-21 21:36:12,466 - remove - INFO - Successfully removed pathname "E:\tis\output\UMTS-CELL-W-LIST001.xml".
+2022-04-21 21:36:12,466 - root - INFO - Done.
+2022-04-21 21:36:12,466 - root - INFO - Processing files...
+2022-04-21 21:36:12,513 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\a\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-A-LIST001.xml".
+2022-04-21 21:36:12,654 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\a\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-A-LIST001.xml".
+2022-04-21 21:36:12,700 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\b\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-B-LIST001.xml".
+2022-04-21 21:36:12,810 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\b\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-B-LIST001.xml".
+2022-04-21 21:36:12,872 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\c\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-C-LIST001.xml".
+2022-04-21 21:36:12,997 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\c\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-C-LIST001.xml".
+2022-04-21 21:36:13,044 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\f\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-F-LIST001.xml".
+2022-04-21 21:36:13,153 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\f\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-F-LIST001.xml".
+2022-04-21 21:36:13,200 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\g\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-G-LIST001.xml".
+2022-04-21 21:36:13,293 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\g\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-G-LIST001.xml".
+2022-04-21 21:36:13,324 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\h\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-H-LIST001.xml".
+2022-04-21 21:36:13,402 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\h\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-H-LIST001.xml".
+2022-04-21 21:36:13,449 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\l\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-L-LIST001.xml".
+2022-04-21 21:36:13,558 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\l\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-L-LIST001.xml".
+2022-04-21 21:36:13,558 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\m\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-M-LIST001.xml".
+2022-04-21 21:36:13,574 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\m\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-M-LIST001.xml".
+2022-04-21 21:36:13,590 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\n\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-N-LIST001.xml".
+2022-04-21 21:36:13,636 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\n\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-N-LIST001.xml".
+2022-04-21 21:36:13,683 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\o\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-O-LIST001.xml".
+2022-04-21 21:36:13,777 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\o\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-O-LIST001.xml".
+2022-04-21 21:36:13,808 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\r\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-R-LIST001.xml".
+2022-04-21 21:36:13,839 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\r\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-R-LIST001.xml".
+2022-04-21 21:36:13,870 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\w\GSM-CELL-LIST001.xml" to destination"E:\tis\output\GSM-CELL-W-LIST001.xml".
+2022-04-21 21:36:13,886 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\w\UMTS-CELL-LIST001.xml" to destination"E:\tis\output\UMTS-CELL-W-LIST001.xml".
+2022-04-21 21:36:14,853 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\all\LTE-CELL-LIST001.xml" to destination"E:\tis\output\LTE-CELL-LIST001.xml".
+2022-04-21 21:36:14,853 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\all\NETWORK-LIST001.xml" to destination"E:\tis\output\NETWORK-LIST001.xml".
+2022-04-21 21:36:16,600 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\all\PROPERTY-LIST001.xml" to destination"E:\tis\output\PROPERTY-LIST001.xml".
+2022-04-21 21:36:16,616 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\all\REPEATER-LIST001.xml" to destination"E:\tis\output\REPEATER-LIST001.xml".
+2022-04-21 21:36:16,616 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\all\SUPPLIER-LIST001.xml" to destination"E:\tis\output\SUPPLIER-LIST001.xml".
+2022-04-21 21:36:17,989 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\all\ANTENNA-LIST001.xml" to destination"E:\tis\output\ANTENNA-LIST001.xml".
+2022-04-21 21:36:17,989 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\all\CAR-LAYER-LIST001.xml" to destination"E:\tis\output\CAR-LAYER-LIST001.xml".
+2022-04-21 21:36:18,036 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\nodes\2g\MU-NODE-LIST001.xml" to destination"E:\tis\output\MU-NODE-2G-LIST001.xml".
+2022-04-21 21:36:18,129 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\nodes\3g\MU-NODE-LIST001.xml" to destination"E:\tis\output\MU-NODE-3G-LIST001.xml".
+2022-04-21 21:36:18,192 - copy_file - INFO - Successfully copied pathname "E:\tis\reference\nodes\4g\MU-NODE-LIST001.xml" to destination"E:\tis\output\MU-NODE-4G-LIST001.xml".
+2022-04-21 21:36:18,192 - root - INFO - Done.
+2022-04-21 21:36:18,488 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_5.8)
+2022-04-21 21:36:18,597 - paramiko.transport - INFO - Authentication (publickey) successful!
+2022-04-21 21:36:19,034 - paramiko.transport.sftp - INFO - [chan 0] Opened sftp connection (server version 3)
+2022-04-21 21:36:19,034 - root - INFO - Seding files to satisfaction...
+2022-04-21 21:38:55,008 - root - INFO - Done.
+2022-04-21 21:38:55,024 - root - INFO - Archiving and compressing REFERENCE data...
+2022-04-21 21:40:03,260 - root - INFO - Copying the log at this point...
+2022-04-21 21:40:03,276 - copy_file - INFO - Successfully copied pathname "E:\tis\logs\python_20220421190003.log" to destination"E:\tis\logs\tis_20220421190003\python_20220421190003.log".
+2022-04-21 21:40:03,276 - root - INFO - Archiving and compressing logs...
+2022-04-21 21:40:03,369 - remove - INFO - Successfully removed path-prefix "E:\tis\logs\tis_20220421190003".
+2022-04-21 21:40:03,541 - root - INFO - Authoring admin email template...
+2022-04-21 21:40:03,572 - paramiko.transport - INFO - Connected (version 2.0, client Sun_SSH_2.0)
+2022-04-21 21:40:05,975 - paramiko.transport - INFO - Authentication (publickey) successful!
+2022-04-21 21:40:06,021 - paramiko.transport.sftp - INFO - [chan 0] Opened sftp connection (server version 3)
+2022-04-21 21:40:06,021 - root - INFO - Seding files to freetown...
+2022-04-21 21:40:06,661 - root - INFO - Done.

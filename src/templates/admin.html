@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <style>
+            table, th, td {
+                border: 1px solid black;
+            }
+            table {
+                border-collapse: collapse;
+            }
+        </style>
+    </head>
+    <body>
+        <p>
+            The script was executed from "{{main}}", located in the path-prefix 
+            "{{wd}}" on the machine "{{hostname}}".</br></br> 
+            
+            TIS data is located in "<b>{{output}}</b>".</br> 
+            A backup of TIS exported data has been created as  
+            "{{tis_backup_pathname}}".</br></br>
+            
+            Regional data is located in "<b>{{regions}}</b>".</br></br> 
+            
+            The timestamp at creation is: {{ts}} / {{hts}}.</br></br> 
+            
+            The execution started at: {{hts}}.</br> 
+            The execution ended at: {{event_end_hts}}.</br> 
+            Total execution time: {{hours}}:{{minutes}}:{{seconds}}.</br></br> 
+        </p>
+        <table style="width:100%">
+            <tr>
+                <th rowspan="2">Region</th>
+                <th colspan="4">Exported Values</th> 
+            </tr>
+            <tr>
+                <th>2G</th>
+                <th>3G</th>
+                <th>4G</th>
+                <th>Total (Region)</th>
+            </tr>
+            {% for i in val_count %}
+            <tr>
+                <td>{{i}}</td>
+                {% for j in val_count[i] %}
+                    <td>{{val_count[i][j]}}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+        <p>
+            Total number of nodes: <b>{{global_count}}.</b></br>
+        </p>
+    </body>
+</html>
